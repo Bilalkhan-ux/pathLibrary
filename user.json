@@ -1,0 +1,10 @@
+{
+    "name": "Mr President",
+    "age": 23,
+    "language": "Python",
+    "skills": [
+        "OOP",
+        "APIs",
+        "JSON"
+    ]
+}
